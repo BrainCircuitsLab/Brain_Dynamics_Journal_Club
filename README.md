@@ -9,4 +9,4 @@ Yile Wang, Leah Chandy, Wanqiao Ding
 
 |Date | Presenter | Paper |
 | :---: | :---: | :---: | 
-| unknown| unknown | unknown|
+| 03-15-2023| Yile Wang| M Schirner et al., 2017, Inferring multi-scale neural mechanisms with brain network modelling|
