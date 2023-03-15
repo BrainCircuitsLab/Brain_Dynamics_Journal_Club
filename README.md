@@ -5,7 +5,7 @@ Contact yile.wang@utdallas.edu to join our Teams group.
 
 Current Members:
 
-Yile Wang, Leah Chandy, Wanqiao Ding
+Yile Wang, Leah Chandy, Wanqiao Ding, Bangjie Wang
 
 |Date | Presenter | Paper |
 | :---: | :---: | :---: | 
