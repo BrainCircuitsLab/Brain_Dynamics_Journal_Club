@@ -9,5 +9,5 @@ Yile Wang, Leah Chandy, Wanqiao Ding, Bangjie Wang
 
 |Date | Presenter | Paper |
 | :---: | :---: | :---: | 
-| 03-15-2023| Yile Wang| M Schirner et al., 2017, Inferring multi-scale neural mechanisms with brain network modelling|
-| 03-31-2023| Wanqiao Ding| Graph Theory|
+| 03-15-2023| Yile Wang| Inferring multi-scale neural mechanisms with brain network modelling|
+| 04-01-2023| Wanqiao Ding| Complex network measures of brain connectivity: Uses and interpretations|
