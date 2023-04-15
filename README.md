@@ -13,4 +13,4 @@ Yile Wang, Leah Chandy, Wanqiao Ding, Bangjie Wang
 | :---: | :---: | :---: | 
 | 03-15-2023| Yile Wang| Inferring multi-scale neural mechanisms with brain network modelling|
 | 04-01-2023| Wanqiao Ding| Complex network measures of brain connectivity: Uses and interpretations|
-| 04-15-2023| Leah Chandy| Temporal Irreversibility of Large-Scale Brain Dynamics inAlzheimer’s Disease|
+| 04-22-2023| Leah Chandy| Temporal Irreversibility of Large-Scale Brain Dynamics in Alzheimer’s Disease|
