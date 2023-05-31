@@ -7,7 +7,7 @@ Meeting [link](https://ucl.zoom.us/j/8639182881?pwd=UFJHWUNIdUcyU0t5OGwzdU9VVm5q
 
 Current Members:
 
-Yile Wang, Leah Chandy, Wanqiao Ding, Bangjie Wang
+Yile Wang, Leah Chandy, Wanqiao Ding, Bangjie Wang, Annette Glotfelty
 
 |Date | Presenter | Paper |
 | :---: | :---: | :---: | 
