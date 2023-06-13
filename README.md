@@ -17,3 +17,4 @@ Yile Wang, Leah Chandy, Wanqiao Ding, Bangjie Wang, Annette Glotfelty
 | 05-17-2023| Bangjie Wang| A Goldilocks theory of cognitive control: Balancingprecision and efficiency with low-dimensional controlstates|
 | 05-24-2023| Yile Wang| Neural Population Modes Capture Biologically Realistic Large Scale Network Dynamics|
 | 05-31-2023| Wanqiao Ding|Rich-Club Organization of the Human Connectome|
+| 06-13-2023| Bangjie Wang| Dynamic brain interactions during picture naming |
