@@ -19,3 +19,4 @@ Yile Wang, Leah Chandy, Wanqiao Ding, Bangjie Wang, Annette Glotfelty
 | 05-31-2023| Wanqiao Ding|Rich-Club Organization of the Human Connectome|
 | 06-13-2023| Bangjie Wang| Dynamic brain interactions during picture naming |
 | 06-20-2023| Leah Chandy| Brain functional connectivity during the first day of coma reflects long-term outcome |
+| 06-28-2023| Yile Wang| Geometric constraints on human brain function|
