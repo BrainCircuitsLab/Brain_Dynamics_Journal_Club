@@ -20,3 +20,4 @@ Yile Wang, Leah Chandy, Wanqiao Ding, Bangjie Wang, Annette Glotfelty
 | 06-13-2023| Bangjie Wang| Dynamic brain interactions during picture naming |
 | 06-20-2023| Leah Chandy| Brain functional connectivity during the first day of coma reflects long-term outcome |
 | 07-11-2023| Yile Wang| Geometric constraints on human brain function|
+| 07-18-2023| The importance of mixed selectivity in complex cognitive tasks|
